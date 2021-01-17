@@ -29,7 +29,7 @@ Heroku
 -----------
 　  
 #### 2、ログイン 画面  
-![login.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png)  
+[![Image from Gyazo](https://i.gyazo.com/6896b89a295b091eeb94ed69f0af8dad.png)](https://gyazo.com/6896b89a295b091eeb94ed69f0af8dad)
 -----------
 　  
 #### 3、投稿画像一覧 画面  
