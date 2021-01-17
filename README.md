@@ -25,20 +25,20 @@ Heroku
 
 ## 【Tech_maki】一部サンプル画像   
 #### 1、新規ユーザー登録 画面  
-![userCreate.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E6%96%B0%E8%A6%8F%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E3%83%BC%E7%99%BB%E9%8C%B2.png)
+[![Image from Gyazo](https://i.gyazo.com/b30e4d8264773371eed29ffd864ea91f.png)](https://gyazo.com/b30e4d8264773371eed29ffd864ea91f)
 -----------
 　  
 #### 2、ログイン 画面  
-![login.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png)  
+[![Image from Gyazo](https://i.gyazo.com/6896b89a295b091eeb94ed69f0af8dad.png)](https://gyazo.com/6896b89a295b091eeb94ed69f0af8dad)
 -----------
 　  
 #### 3、投稿画像一覧 画面  
-![imageList.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E6%8A%95%E7%A8%BF%E7%94%BB%E5%83%8F.png)
+[![Image from Gyazo](https://i.gyazo.com/16b9d0335f9cb24ec72c7bb42e091c36.png)](https://gyazo.com/16b9d0335f9cb24ec72c7bb42e091c36)
 -----------
 　  
 #### 4、新規投稿 画面
-![post.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E6%96%B0%E8%A6%8F%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2.png)
+[![Image from Gyazo](https://i.gyazo.com/e93956175c75559576ef770ddb219e5c.png)](https://gyazo.com/e93956175c75559576ef770ddb219e5c)
 -----------
 　  
 #### 5、マイページ編集 画面
-![editMyPage.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E3%83%9E%E3%82%A4%E3%83%98%E3%82%9A%E3%83%BC%E3%82%B7%E3%82%99%E7%B7%A8%E9%9B%86%E7%94%BB%E9%9D%A2.png)
+[![Image from Gyazo](https://i.gyazo.com/cb255ed910be7df7011a7cb69fe994d9.png)](https://gyazo.com/cb255ed910be7df7011a7cb69fe994d9)
