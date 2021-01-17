@@ -25,7 +25,7 @@ Heroku
 
 ## 【Tech_maki】一部サンプル画像   
 #### 1、新規ユーザー登録 画面  
-[![Image from Gyazo](https://i.gyazo.com/6896b89a295b091eeb94ed69f0af8dad.png)](https://gyazo.com/6896b89a295b091eeb94ed69f0af8dad)
+[![Image from Gyazo](https://i.gyazo.com/b30e4d8264773371eed29ffd864ea91f.png)](https://gyazo.com/b30e4d8264773371eed29ffd864ea91f)
 -----------
 　  
 #### 2、ログイン 画面  
