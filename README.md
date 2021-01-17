@@ -41,4 +41,4 @@ Heroku
 -----------
 　  
 #### 5、マイページ編集 画面
-![editMyPage.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E3%83%9E%E3%82%A4%E3%83%98%E3%82%9A%E3%83%BC%E3%82%B7%E3%82%99%E7%B7%A8%E9%9B%86%E7%94%BB%E9%9D%A2.png)
+[![Image from Gyazo](https://i.gyazo.com/cb255ed910be7df7011a7cb69fe994d9.png)](https://gyazo.com/cb255ed910be7df7011a7cb69fe994d9)
