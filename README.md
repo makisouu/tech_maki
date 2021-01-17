@@ -50,4 +50,11 @@ Heroku
 -----------
 　  
 #### 5、マイページ編集 画面
-[![Image from Gyazo](https://i.gyazo.com/cb255ed910be7df7011a7cb69fe994d9.png)](https://gyazo.com/cb255ed910be7df7011a7cb69fe994d9)
+[![Image from Gyazo](https://i.gyazo.com/cb255ed910be7df7011a7cb69fe994d9.png)](https://gyazo.com/cb255ed910be7df7011a7cb69fe994d9)  
+
+
+#### 苦労した点  
+Railsの復習として実装しまし、herokuのデプロイ・ゲストログイン機能・AWSでの画像保存に大きく時間を取られました。  
+特に初めてする工程がうまくいかず、調べることに時間を使いましたが調べ方によって必要な情報が獲れることを改めて思う良い機会になったと思います。  
+
+
