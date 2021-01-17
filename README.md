@@ -33,7 +33,7 @@ Heroku
 -----------
 　  
 #### 3、投稿画像一覧 画面  
-![imageList.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E6%8A%95%E7%A8%BF%E7%94%BB%E5%83%8F.png)
+[![Image from Gyazo](https://i.gyazo.com/16b9d0335f9cb24ec72c7bb42e091c36.png)](https://gyazo.com/16b9d0335f9cb24ec72c7bb42e091c36)
 -----------
 　  
 #### 4、新規投稿 画面
