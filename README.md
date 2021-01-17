@@ -46,7 +46,7 @@ Heroku
 -----------
 　  
 #### 4、新規投稿 画面
-[![Image from Gyazo](https://i.gyazo.com/e93956175c75559576ef770ddb219e5c.png)](https://gyazo.com/e93956175c75559576ef770ddb219e5c)
+[![Image from Gyazo](https://i.gyazo.com/a0080d98888f80163df1c3686d280a86.png)](https://gyazo.com/a0080d98888f80163df1c3686d280a86)
 -----------
 　  
 #### 5、マイページ編集 画面
