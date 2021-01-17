@@ -37,7 +37,7 @@ Heroku
 -----------
 　  
 #### 4、新規投稿 画面
-![post.jpg](https://raw.githubusercontent.com/makisouu/tech_maki/master/%E6%96%B0%E8%A6%8F%E6%8A%95%E7%A8%BF%E7%94%BB%E9%9D%A2.png)
+[![Image from Gyazo](https://i.gyazo.com/e93956175c75559576ef770ddb219e5c.png)](https://gyazo.com/e93956175c75559576ef770ddb219e5c)
 -----------
 　  
 #### 5、マイページ編集 画面
