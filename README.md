@@ -52,6 +52,57 @@ Heroku
 #### 5、マイページ編集 画面
 [![Image from Gyazo](https://i.gyazo.com/cb255ed910be7df7011a7cb69fe994d9.png)](https://gyazo.com/cb255ed910be7df7011a7cb69fe994d9)  
 
+# DB設計
+
+# users table
+|Column|Type|Options|
+|------|----|-------|
+### Association
+has_many :posts, dependent: :destroy<br>
+has_many :likes<br>
+has_many :comments
+# comments table
+|Column|Type|Options|
+|------|----|-------|
+|comment|text|
+|post   |references|foreign_key: true null: false|
+|user   |references|foreign_key: true null: false|
+### Association
+belongs_to :user<br>
+belongs_to :post
+
+# posts table
+|Column|Type|Options|
+|------|----|-------|
+|caption|string|
+|user   |references|foreign_key: true null: false|
+### Association
+belongs_to :user<br>
+has_many :photos, dependent: :destroy<br>
+has_many :likes, -> { order(created_at: :desc) }, dependent: :destroy<br>
+has_many :comments, dependent: :destroy
+
+# likes table
+|Column|Type|Options|
+|------|----|-------|
+|post  |references  |foreign_key: true null: false|
+|user  |references  |foreign_key: true null: false|
+### Association
+belongs_to :user<br>
+belongs_to :post<br>
+validates :user_id, uniqueness: { scope: :post_id }
+# photos table
+|Column|Type|Options|
+|------|----|-------|
+|image |string|null: false|
+|post  |references|foreign_key: true null: false|
+
+### Association
+belongs_to :post<br>
+validates :image, presence: true
+
+
+
 
 #### 良かった点  
 以前作ったアプリを復習してから始めたため基本的にはうまく実装できた。  
