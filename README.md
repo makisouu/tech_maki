@@ -50,7 +50,7 @@ Heroku
 -----------
 　  
 #### 5、マイページ編集 画面
-[![Image from Gyazo](https://i.gyazo.com/cb255ed910be7df7011a7cb69fe994d9.png)](https://gyazo.com/cb255ed910be7df7011a7cb69fe994d9)  
+![editMyPage.jpg](https://user-images.githubusercontent.com/68980008/106240742-29991e00-6248-11eb-924c-19c15ee3a000.png)  
 
 # DB設計
 
