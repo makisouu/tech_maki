@@ -38,7 +38,7 @@ Heroku
 -----------
 　  
 #### 2、ログイン 画面  
-[![Image from Gyazo](https://i.gyazo.com/6896b89a295b091eeb94ed69f0af8dad.png)](https://gyazo.com/6896b89a295b091eeb94ed69f0af8dad)
+<img width="1168" alt="ログイン画面" src="https://user-images.githubusercontent.com/68980008/106239786-87c50180-6246-11eb-976b-85b825714cf8.png">
 -----------
 　  
 #### 3、投稿画像一覧 画面  
