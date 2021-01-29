@@ -35,7 +35,6 @@ Heroku
 ## 【Tech_maki】一部サンプル画像   
 #### 1、新規ユーザー登録 画面  
 <img width="1172" alt="新規ユーザー登録画面" src="https://user-images.githubusercontent.com/68980008/106239580-3583e080-6246-11eb-8c56-b7c9aaa0ab67.png">
------------
 　  
 #### 2、ログイン 画面  
 <img width="1168" alt="ログイン画面" src="https://user-images.githubusercontent.com/68980008/106239786-87c50180-6246-11eb-976b-85b825714cf8.png">
@@ -47,7 +46,6 @@ Heroku
 　  
 #### 4、新規投稿 画面
 <img width="1069" alt="新規投稿画面" src="https://user-images.githubusercontent.com/68980008/106240032-ee4a1f80-6246-11eb-9f19-9ab0f7d55d79.png"
-
 -----------
 　  
 #### 5、マイページ編集 画面
