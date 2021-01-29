@@ -42,11 +42,11 @@ Heroku
 -----------
 　  
 #### 3、投稿画像一覧 画面  
-<img width="741" alt="投稿画像一覧画面" src="https://user-images.githubusercontent.com/68980008/106239899-b2af5580-6246-11eb-9b63-15a1248b5ff0.png">
+![imageList.jpg](https://user-images.githubusercontent.com/68980008/106239899-b2af5580-6246-11eb-9b63-15a1248b5ff0.png)
 -----------
 　  
 #### 4、新規投稿 画面
-<img width="1069" alt="新規投稿画面" src="https://user-images.githubusercontent.com/68980008/106240032-ee4a1f80-6246-11eb-9f19-9ab0f7d55d79.png"
+![post.jpg](https://user-images.githubusercontent.com/68980008/106240032-ee4a1f80-6246-11eb-9f19-9ab0f7d55d79.png)
 -----------
 　  
 #### 5、マイページ編集 画面
