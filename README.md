@@ -42,7 +42,7 @@ Heroku
 -----------
 　  
 #### 3、投稿画像一覧 画面  
-[![Image from Gyazo](https://i.gyazo.com/16b9d0335f9cb24ec72c7bb42e091c36.png)](https://gyazo.com/16b9d0335f9cb24ec72c7bb42e091c36)
+<img width="741" alt="投稿画像一覧画面" src="https://user-images.githubusercontent.com/68980008/106239899-b2af5580-6246-11eb-9b63-15a1248b5ff0.png">
 -----------
 　  
 #### 4、新規投稿 画面
