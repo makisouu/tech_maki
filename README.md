@@ -2,6 +2,7 @@
 ### 個人制作
 
 ### Tech_maki！URL: https://thawing-hamlet-64941.herokuapp.com/
+- スリープ状態の場合があります。その場合、起動まで10秒程度お待ちください。
 
 #### 概要
 Instagram風SNSサービスです。  
